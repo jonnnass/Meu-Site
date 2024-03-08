@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-sacale=1.0">
+    <title>Meu Site de treinamento de Programação</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-Vindo ao Meu Site de Treinamento de Programação!</h1>
+    </header>
+    <nav>
+         <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+         </ul>
+    </nav>
+    <main>
+         <h2>Sbore</h2>
+         <p>Este site foi criado para ajudar você a praticar suas habilidades de recursos e desafios disponíveis para aprimorar suas habilidades.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Meu Site de Treinamento de Programação</p>
+    </footer>
+</body>
+</html>
